@@ -24,7 +24,6 @@ public class Tugaskedua11 {
             totalBiaya += harga[i];
         }
         System.out.println();
-     
         System.out.println("Daftar Pesanan: ");
         for (int i = 0; i < pesanan.length; i++) {
             System.out.println( (i + 1) + ". " + pesanan[i] + " Rp" + harga[i]);
