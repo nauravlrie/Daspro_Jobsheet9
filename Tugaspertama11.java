@@ -29,7 +29,7 @@ public class Tugaspertama11 {
         System.out.println();
         System.out.println("Semua Nilai Mahasiswa: ");
         for (int i = 0; i < nilaiMhs.length; i++) {
-            System.out.println("Nilai Mahasiswa ke-" + (i + 1) + ": " + nilaiMhs[i]);
+        System.out.println("Nilai Mahasiswa ke-" + (i + 1) + ": " + nilaiMhs[i]);
         }
         System.out.println();
         System.out.println("Nilai tertinggi: " + nilaiTertinggi);
